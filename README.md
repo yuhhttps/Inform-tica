@@ -11,6 +11,7 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 <img width="1150" height="707" alt="Captura de tela 2026-04-17 192233" src="https://github.com/user-attachments/assets/21949597-73a5-483c-974a-b4365eb5c8f5" />
 <img width="370" height="114" alt="Captura de tela 2026-04-17 192241" src="https://github.com/user-attachments/assets/daedcc86-ef7b-496b-9499-7545cebe7b1c" />
 <img width="4" height="4" alt="Captura de tela 2026-04-17 191411" src="https://github.com/user-attachments/assets/119e37e5-8a58-4ae4-958d-19d7f83e61b9" />
+<img width="384" height="315" alt="Captura de tela 2026-04-17 192248" src="https://github.com/user-attachments/assets/2325fdca-6262-4dbe-b18c-a7562074d73f" />
 ## Planilha de dados abertos de São Paulo (produtos de origem animal)
 [bd_producao_origem_animal (1).xlsx](https://github.com/user-attachments/files/26843369/bd_producao_origem_animal.1.xlsx)
 <img width="613" height="435" alt="Captura de tela 2026-04-17 191403" src="https://github.com/user-attachments/assets/0bd5ed7d-4cdc-48d6-a5ba-83f426c8b014" />
