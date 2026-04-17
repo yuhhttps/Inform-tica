@@ -8,3 +8,4 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 [<img width="699" height="509" alt="Captura de tela 2026-03-06 201414" src="https://github.com/user-attachments/assets/8b66e907-14f7-4679-86ac-6d835d93d891" />
 ## Planilha com dados abertos de multas pagas em São Paulo
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618058/multas_pagas.xlsx)
+## 
