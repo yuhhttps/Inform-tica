@@ -11,15 +11,20 @@ Trabalho executado via Canva: Animações e figuras
 balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balancete_receita.xlsx)
  
 <img width="699" height="509" alt="Captura de tela 2026-03-06 201414" src="https://github.com/user-attachments/assets/8b66e907-14f7-4679-86ac-6d835d93d891" />
+
 ---
 
  
 ## Planilha com dados abertos de multas pagas em São Paulo
 
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618058/multas_pagas.xlsx)
+ 
 <img width="1150" height="707" alt="Captura de tela 2026-04-17 192233" src="https://github.com/user-attachments/assets/21949597-73a5-483c-974a-b4365eb5c8f5" />
+ 
 <img width="370" height="114" alt="Captura de tela 2026-04-17 192241" src="https://github.com/user-attachments/assets/daedcc86-ef7b-496b-9499-7545cebe7b1c" />
+ 
 <img width="4" height="4" alt="Captura de tela 2026-04-17 191411" src="https://github.com/user-attachments/assets/119e37e5-8a58-4ae4-958d-19d7f83e61b9" />
+ 
 <img width="384" height="315" alt="Captura de tela 2026-04-17 192248" src="https://github.com/user-attachments/assets/2325fdca-6262-4dbe-b18c-a7562074d73f" />
 
 ---
