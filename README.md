@@ -26,3 +26,8 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 ---
 ## Curso de Informação e Comunicação (ABNT e Canva)
 <img width="1080" height="647" alt="Foto de 🍨" src="https://github.com/user-attachments/assets/231c932a-3138-4140-8730-8fb55fd0e3e1" />
+---
+## Power Bi - dados abertos de admissão e demissão em SP ( 2020 - 2025 )
+<img width="1310" height="740" alt="Captura de tela 2026-05-07 224126" src="https://github.com/user-attachments/assets/5b8babc1-8576-4d0b-8f50-9f6731817195" />
+<img width="1308" height="845" alt="Captura de tela 2026-05-07 224137" src="https://github.com/user-attachments/assets/4aef1823-5122-4cfd-88e4-a261e438765d" />
+
