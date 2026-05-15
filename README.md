@@ -51,3 +51,4 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 
 ## Excel - Kaggle Ice Cream Sales and Temperature
 [Ice Cream Sales and Temperature Yuri.xlsx](https://github.com/user-attachments/files/27783088/Ice.Cream.Sales.and.Temperature.Yuri.xlsx)
+<img width="1077" height="653" alt="Captura de tela 2026-05-14 222043" src="https://github.com/user-attachments/assets/80d5ea97-e019-4b1f-80cf-5fad3f7f3f9d" />
