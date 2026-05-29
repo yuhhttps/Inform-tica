@@ -19,8 +19,15 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 
 ---
 
-AULA 4: 
-## Planilha com dados abertos de multas pagas em São Paulo
+AULA 4:
+
+---
+
+## AULA 5:
+
+---
+
+## AULA 6: Planilha com dados abertos de multas pagas em São Paulo
 
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618058/multas_pagas.xlsx)
  
@@ -31,14 +38,6 @@ AULA 4:
 <img width="4" height="4" alt="Captura de tela 2026-04-17 191411" src="https://github.com/user-attachments/assets/119e37e5-8a58-4ae4-958d-19d7f83e61b9" />
  
 <img width="384" height="315" alt="Captura de tela 2026-04-17 192248" src="https://github.com/user-attachments/assets/2325fdca-6262-4dbe-b18c-a7562074d73f" />
-
----
-
-## AULA 5:
-
----
-
-## AULA 6: 
 
 ---
 
