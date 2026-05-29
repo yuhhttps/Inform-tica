@@ -19,11 +19,15 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 
 ---
 
-## AULA 4:
+## AULA 4: Tabela e gráfico dinâmico (CONT.SE e PROCV)
+
+<img width="1538" height="1023" alt="Image 29 de mai  de 2026, 19_36_44" src="https://github.com/user-attachments/assets/c931daa6-53f5-4220-a14d-c9d8c1624b25" />
 
 ---
 
-## AULA 5:
+## AULA 5: 
+
+
 
 ---
 
