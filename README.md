@@ -7,8 +7,9 @@ Trabalho executado via Canva: Animações e figuras
 
 ---
 
-## AULA 2: 
+## AULA 2: Tabela no Excel (PROCV)
 
+<img width="1555" height="688" alt="Image_lcz8azlcz8azlcz8" src="https://github.com/user-attachments/assets/d5b4f178-94d1-4944-a6d9-fe4e367f19eb" />
 
 ---
 
