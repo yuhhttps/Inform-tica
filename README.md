@@ -25,9 +25,9 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 
 ---
 
-## AULA 5: 
+## AULA 5: Tabela e gráfico dinâmico (CONT.SE e PROCV)
 
-
+<img width="1932" height="814" alt="Image 29 de mai  de 2026, 19_43_32" src="https://github.com/user-attachments/assets/65ad13be-54f1-460e-abba-02700a6e1a16" />
 
 ---
 
@@ -53,7 +53,11 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 
 ---
 
-## AULA 8: 
+## AULA 8: Power BI - dados abertos SP Meio ambiente/autos de infração ambiental.
+
+<img width="1312" height="739" alt="WhatsApp Image 2026-04-24 at 19 48 58" src="https://github.com/user-attachments/assets/0758acf3-59ef-4f60-8830-a760f6c53c43" />
+
+---
 
 ## Curso de Informação e Comunicação (ABNT e Canva)
 <img width="1080" height="647" alt="Foto de 🍨" src="https://github.com/user-attachments/assets/231c932a-3138-4140-8730-8fb55fd0e3e1" />
