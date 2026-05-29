@@ -59,4 +59,7 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 
 ## Prova de Informática
 
+<img width="1345" height="757" alt="29 05 2026_15 30 11_REC" src="https://github.com/user-attachments/assets/ac6add5a-2457-4134-ab83-bf72c846c3d5" />
+
+https://github.com/user-attachments/assets/7fb26a87-4311-4547-8d19-0119c8c12f66
 
