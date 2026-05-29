@@ -6,9 +6,11 @@ Trabalho executado via Canva: Animações e figuras
 <img width="1677" height="938" alt="image" src="https://github.com/user-attachments/assets/c74cf35d-dee2-433b-9803-e325f62b648c" />
 
 ---
+
 ## AULA 2: 
 
 
+---
 
 ## AULA 3: Planilha no Excel (balancete e receita)
 balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balancete_receita.xlsx)
@@ -16,6 +18,7 @@ balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balan
 <img width="699" height="509" alt="Captura de tela 2026-03-06 201414" src="https://github.com/user-attachments/assets/8b66e907-14f7-4679-86ac-6d835d93d891" />
 
 ---
+
 AULA 4: 
 ## Planilha com dados abertos de multas pagas em São Paulo
 
@@ -31,6 +34,14 @@ AULA 4:
 
 ---
 
+## AULA 5:
+
+---
+
+## AULA 6: 
+
+---
+
 ## AULA 7: Planilha de dados abertos de São Paulo (produtos de origem animal)
 
 [bd_producao_origem_animal (1).xlsx](https://github.com/user-attachments/files/26843369/bd_producao_origem_animal.1.xlsx)
@@ -39,25 +50,39 @@ AULA 4:
 
 ---
 
+## AULA 8: 
+
 ## Curso de Informação e Comunicação (ABNT e Canva)
 <img width="1080" height="647" alt="Foto de 🍨" src="https://github.com/user-attachments/assets/231c932a-3138-4140-8730-8fb55fd0e3e1" />
 
 ---
 
-## Power Bi - dados abertos de admissão e demissão em SP ( 2020 - 2025 )
+## AULA 9: Power Bi - dados abertos de admissão e demissão em SP ( 2020 - 2025 )
 <img width="1310" height="740" alt="Captura de tela 2026-05-07 224126" src="https://github.com/user-attachments/assets/5b8babc1-8576-4d0b-8f50-9f6731817195" />
 <img width="1308" height="845" alt="Captura de tela 2026-05-07 224137" src="https://github.com/user-attachments/assets/4aef1823-5122-4cfd-88e4-a261e438765d" />
 https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbix
 
  ---
 
-## Excel - Kaggle Ice Cream Sales and Temperature
+## AULA 10: Perguntas no Power BI
+
+---
+
+## AULA 11: Excel - Kaggle Ice Cream Sales and Temperature
 [Ice Cream Sales and Temperature Yuri.xlsx](https://github.com/user-attachments/files/27783088/Ice.Cream.Sales.and.Temperature.Yuri.xlsx)
 <img width="1077" height="653" alt="Captura de tela 2026-05-14 222043" src="https://github.com/user-attachments/assets/80d5ea97-e019-4b1f-80cf-5fad3f7f3f9d" />
 
-## Google Colab - Kaggle Ice Cream Sales and Temperature
+---
+
+## AULA 12: Google Colab - Kaggle Ice Cream Sales and Temperature
 
 <img width="985" height="757" alt="Captura de tela 2026-05-21 213726" src="https://github.com/user-attachments/assets/e5c54e24-36eb-499b-afa2-bfe9f6f30ef7" />
+
+---
+
+## AULA 13: Dashboard Icecream X Cerveja
+
+---
 
 ## Prova de Informática
 
