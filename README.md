@@ -56,3 +56,7 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 ## Google Colab - Kaggle Ice Cream Sales and Temperature
 
 <img width="985" height="757" alt="Captura de tela 2026-05-21 213726" src="https://github.com/user-attachments/assets/e5c54e24-36eb-499b-afa2-bfe9f6f30ef7" />
+
+## Prova de Informática
+
+
