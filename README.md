@@ -105,6 +105,10 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 
 ---
 
+## Comparativo de Regressão Linear
+
+<img width="1012" height="495" alt="Captura de tela 2026-06-12 192303" src="https://github.com/user-attachments/assets/0f9a749a-5e63-4c23-b664-031d89fb85d1" />
+
 ## AULA 13: Dashboard Icecream X Cerveja
 
 <img width="1600" height="935" alt="WhatsApp Image 2026-06-11 at 21 40 35" src="https://github.com/user-attachments/assets/adc686f7-ca33-4a6f-91c3-5dbb22984303" />
