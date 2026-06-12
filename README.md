@@ -109,6 +109,8 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 
 <img width="1600" height="935" alt="WhatsApp Image 2026-06-11 at 21 40 35" src="https://github.com/user-attachments/assets/adc686f7-ca33-4a6f-91c3-5dbb22984303" />
 
+<img width="1600" height="828" alt="WhatsApp Image 2026-06-12 at 18 50 31 (1)" src="https://github.com/user-attachments/assets/b609f0ed-03a3-45e4-a3c5-eeb314b32ae7" />
+
 ---
 
 ## Prova de Informática
