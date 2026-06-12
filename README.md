@@ -14,7 +14,7 @@ Trabalho executado via Canva: Animações e figuras
 ---
 
 ## AULA 3: Planilha no Excel (balancete e receita)
-balancete_receita.xlsx](https://github.com/user-attachments/files/25806286/balancete_receita.xlsx)
+(https://github.com/user-attachments/files/25806286/balancete_receita.xlsx)
  
 <img width="699" height="509" alt="Captura de tela 2026-03-06 201414" src="https://github.com/user-attachments/assets/8b66e907-14f7-4679-86ac-6d835d93d891" />
 
@@ -74,6 +74,21 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 
 ## AULA 10: Perguntas no Power BI
 
+1º PERGUNTA: Qual ano e mês o saldo de transferência foi menor? 
+- RESPOSTA: Foi o ano de 2025 e o mês de abril.
+
+<img width="1007" height="575" alt="WhatsApp Image 2026-06-11 at 21 34 36" src="https://github.com/user-attachments/assets/36a3a521-658d-4e5a-be06-ee503540dd64" />
+
+2º PERGUNTA: Qual ano e mês teve o maior saldo desbloqueado? 
+- RESPOSTA: O ano foi 2025 e o mês de fevereiro.
+
+<img width="1000" height="548" alt="WhatsApp Image 2026-06-11 at 21 34 58" src="https://github.com/user-attachments/assets/99369fed-029c-43b1-8829-2228ac28e9c0" />
+
+3º PERGUNTA: Qual ano e mês teve o menor saldo de depósito? 
+- RESPOSTA: O ano foi 2020 e o mês foi maio.
+
+<img width="979" height="559" alt="WhatsApp Image 2026-06-11 at 21 35 14" src="https://github.com/user-attachments/assets/f74ca842-7941-4334-8407-f9be3f377345" />
+
 ---
 
 ## AULA 11: Excel - Kaggle Ice Cream Sales and Temperature
@@ -89,6 +104,8 @@ https://github.com/yuhhttps/Inform-tica/blob/main/admissoes_demissoes_SP2025.pbi
 ---
 
 ## AULA 13: Dashboard Icecream X Cerveja
+
+<img width="1600" height="935" alt="WhatsApp Image 2026-06-11 at 21 40 35" src="https://github.com/user-attachments/assets/adc686f7-ca33-4a6f-91c3-5dbb22984303" />
 
 ---
 
